@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="449px" height="488px" viewBox="0 0 449 488" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-14.0723386%" x2="50%" y2="66.2769151%" id="linearGradient-1">
+            <stop stop-color="#FF3AEC" offset="0%"></stop>
+            <stop stop-color="#566AB0" offset="33.3403716%"></stop>
+            <stop stop-color="#41D67B" offset="64.9994721%"></stop>
+            <stop stop-color="#091829" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ziglu_Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.300000012">
+        <g id="1.-About-" transform="translate(-86.000000, -2601.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="3" transform="translate(-63.000000, 2290.000000)">
+                <g id="Mockup" transform="translate(0.000000, 172.500000)">
+                    <path d="M542.040695,309.970184 L469.321824,165.052682 L424.659925,176.701632 L365.568392,96.3588913 L265.784428,220.071448 L221.16064,178.824487 L168.673162,309.972544 L163.933643,321.774925 L145,369.13788 L181.760096,564.766278 L240.851629,579.580627 L349.831236,796.358891 L437.819174,672.646334 L485.114681,666.284143 L602,429.433962 L547.986103,321.764775 L542.040695,309.970184 Z M365.229983,539.930688 L269.792038,512.983495 L266.305545,512.001368 L265.96072,509.423247 L251.976298,405.930688 L276.151361,505.188318 L370.976298,524.922774 L365.229983,539.930688 Z M407.395826,607.974571 L483.102881,434.974571 L501.395826,440.761723 L407.395826,607.974571 Z" id="Shape-Copy" transform="translate(373.500000, 446.358891) scale(-1, 1) rotate(30.000000) translate(-373.500000, -446.358891) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

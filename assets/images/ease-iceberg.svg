@@ -1,0 +1,22 @@
+
+<svg width="446px" height="635px" viewBox="0 0 446 635" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="-14.0723386%" x2="50%" y2="66.2769151%" id="linearGradient-1">
+            <stop stop-color="#FF3AEC" offset="0%"></stop>
+            <stop stop-color="#566AB0" offset="33.3403716%"></stop>
+            <stop stop-color="#41D67B" offset="64.9994721%"></stop>
+            <stop stop-color="#091829" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ziglu_Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.1382766">
+        <g id="1.-About-" transform="translate(-854.000000, -1850.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="2" transform="translate(0.000000, 1481.000000)">
+                <g id="Group-6" transform="translate(679.000000, 84.000000)">
+                    <g id="Group-9">
+                        <polygon id="Path" transform="translate(528.767993, 676.273553) scale(-1, 1) rotate(44.000000) translate(-528.767993, -676.273553) " points="719.63424 484.4434 637.282747 280.617533 586.70476 297.001733 519.785733 184 406.784 358.0012 356.249173 299.98752 296.809 484.44672 291.441667 501.04672 270 567.66252 311.62948 842.813053 378.548507 863.649373 501.963973 1168.54711 601.607133 994.545907 655.167587 985.597511 787.535987 652.468711 726.3672 501.032444"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

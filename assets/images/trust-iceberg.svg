@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="594px" height="607px" viewBox="0 0 594 607" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Shape Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-14.0723386%" x2="50%" y2="66.2769151%" id="linearGradient-1">
+            <stop stop-color="#FF3AEC" offset="0%"></stop>
+            <stop stop-color="#566AB0" offset="33.3403716%"></stop>
+            <stop stop-color="#41D67B" offset="64.9994721%"></stop>
+            <stop stop-color="#091829" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ziglu_Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.1382766">
+        <g id="1.-About-" transform="translate(-606.000000, -3426.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="4" transform="translate(0.000000, 3219.000000)">
+                <g id="Mockup" transform="translate(438.000000, 69.500000)">
+                    <path d="M688.055019,327.654609 L609.289503,132.844082 L560.913923,148.503599 L496.90887,40.5 L388.827772,206.805023 L340.493473,151.357323 L283.641608,327.657782 L278.507994,343.523554 L258,407.192898 L297.816734,670.173358 L361.821787,690.088076 L479.863155,981.5 L575.167376,815.194977 L626.395552,806.642374 L753,488.24806 L694.494794,343.50991 L688.055019,327.654609 Z M496.926458,636.616266 L394.270517,600.418544 L390.520339,599.099269 L390.149436,595.636121 L375.107368,456.616266 L401.110797,589.94741 L503.107368,616.456382 L496.926458,636.616266 Z M543.768183,728.059483 L625.112997,495.059483 L644.768183,502.85374 L543.768183,728.059483 Z" id="Shape-Copy-2" transform="translate(505.500000, 511.000000) scale(-1, 1) rotate(44.000000) translate(-505.500000, -511.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
